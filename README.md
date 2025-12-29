@@ -17,8 +17,6 @@ A Python + Tkinter based DSA Sorting Visualizer with real-time animations, step 
 
 7. Displays Time Complexity of selected algorithm
 
-8. Beginner-friendly & resume-ready GUI project
-
 🛠 Tech Stack
 
 Python
